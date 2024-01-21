@@ -14,4 +14,5 @@
 
 
 
-![carbon](https://github.com/kamiltirkey/New_York_Taxi_Trip_Analysis/assets/149951494/e2d3dd27-bea5-4eca-945a-0caec5beead5)
+![carbon (1)](https://github.com/kamiltirkey/New_York_Taxi_Trip_Analysis/assets/149951494/7d73db92-44ba-4c02-b914-c1d990825a22)
+
